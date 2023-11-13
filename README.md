@@ -1,5 +1,5 @@
 # Sonar Rock vs Mine Prediction Project
-![Project Image](./project_image.JPG)
+![Project Image](./project_image.jpg)
 
 ## Overview
 
